@@ -1,0 +1,141 @@
+/* Estilo para o cabeçalho */
+header {
+	background-color: #e58cb9;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+h1 {
+	margin: 0;
+}
+
+/* Estilo para a navegação */
+nav {
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #ccc;
+	padding: 10px;
+    color: #e58cb9;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+    text-align: center;
+}
+li {
+	display: inline-block;
+	margin-right: 20px;
+    text-align: center;
+}
+a {
+	color: #e6549d;
+	text-decoration: none;
+}
+a:hover {
+	color: #9e2674;
+}
+
+/* Estilo para os projetos */
+section {
+	padding: 20px;
+    text-align: center;
+}
+h2 {
+	margin-top: 0;
+}
+.projeto {
+	display: inline-block;
+	margin: 20px;
+	text-align: center;
+   
+}
+.projeto img {
+	max-width: 100%;
+}
+.projeto h3 {
+	margin-top: 10px;
+}
+.projeto p {
+	margin-top: 5px;
+	font-size: 0.8em;
+}
+
+/* Estilo para o formulário de contato */
+form {
+	margin-top: 20px;
+    text-align: center;
+}
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+
+
+
+   
+
+#cartao{
+
+     width: 1200px;
+    height: 1000px;
+    margin-left: 150px;
+}
+
+#bsb{
+    width: 450px;
+    height: 550px;
+    
+}
+
+#radio{
+    margin-left: 350px;
+}
+
+#figma{
+    width: 100px;
+height: 50px;
+}
+
+#git{
+text-align: center;
+width: 400px;
+height: 200px;
+margin-left: 00x;
+
+}
+
+.projeto1{
+    text-align: center;
+    margin-left: 100px;
+}
+
+#LB{
+    width: 450px;
+    height: 550px;
+
+}
+
+
+
+#foto{
+    width: 150px;
+    height: 200px;
+    margin-left: 0px;
+
+
+}
+
+.sobre-mim{
+
+   
+
+    text-align: center;
+}
+
+
+footer{
+    background-color: #e58cb9;
+    text-align: center;
+    color: #ccc;
+}
